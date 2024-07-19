@@ -6,7 +6,7 @@
    "branch"      : "lineage-21"
  },
  {
-   "repository"  : "xiaomi-mt6885-devs/android_kernel_xiaomi_mt6885",
+   "repository"  : "saoshen/android_kernel_xiaomi_mt6885",
    "target_path" : "kernel/xiaomi/atom",
    "remote"      : "github",
    "branch"      : "lineage-20.0"
